@@ -9,7 +9,7 @@
     "build": "ncc build index.js"
   },
   "dependencies": {
-    "@actions/core": "^1.2.0"
+    "@actions/core": "^2.0.0"
   },
   "devDependencies": {
     "@zeit/ncc": "^0.22.3"
